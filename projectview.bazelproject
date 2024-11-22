@@ -1,0 +1,5 @@
+targets:
+  //...
+
+enable_native_android_rules: true
+
